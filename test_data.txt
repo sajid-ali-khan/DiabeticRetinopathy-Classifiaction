@@ -1,0 +1,6 @@
+images/normal/image394.png normal
+images/normal/image2451.png normal
+images/normal/image959.png normal
+images/normal/image1385.png normal
+images/diabetes/image502.png diabetes
+images/normal/image2199.png normal
